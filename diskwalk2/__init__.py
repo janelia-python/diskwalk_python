@@ -1,3 +1,3 @@
 '''
 '''
-from diskwalk2 import DiskWalk
+from .diskwalk2 import DiskWalk
