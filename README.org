@@ -6,8 +6,8 @@
   - Author :: Peter Polidoro
   - License :: BSD
 
-This Python package (diskwalk2) creates a class named
-DiskWalk.
+  This Python package (diskwalk2) creates a class named
+  DiskWalk.
 
 * Example Usage
 
@@ -24,16 +24,16 @@ DiskWalk.
 ** Linux and Mac OS X
 
    #+BEGIN_SRC sh
-mkdir -p ~/virtualenvs/diskwalk2
-virtualenv ~/virtualenvs/diskwalk2
-source ~/virtualenvs/diskwalk2/bin/activate
-pip install diskwalk2
+     mkdir -p ~/virtualenvs/diskwalk2
+     virtualenv ~/virtualenvs/diskwalk2
+     source ~/virtualenvs/diskwalk2/bin/activate
+     pip install diskwalk2
    #+END_SRC
 
 ** Windows
 
    #+BEGIN_SRC sh
-virtualenv C:\virtualenvs\diskwalk2
-C:\virtualenvs\diskwalk2\Scripts\activate
-pip install diskwalk2
+     virtualenv C:\virtualenvs\diskwalk2
+     C:\virtualenvs\diskwalk2\Scripts\activate
+     pip install diskwalk2
    #+END_SRC
