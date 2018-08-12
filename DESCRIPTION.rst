@@ -6,11 +6,10 @@ DiskWalk.
 
 Authors::
 
-    Peter Polidoro <polidorop@janelia.hhmi.org>
+    Peter Polidoro <peterpolidoro@gmail.com>
 
 License::
 
     BSD
 
 Example Usage::
-
