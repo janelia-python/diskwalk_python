@@ -3,8 +3,12 @@
 #+EMAIL: peterpolidoro@gmail.com
 
 * Package Information
-  - Author :: Peter Polidoro
+  - Name :: diskwalk_python
+  - Version :: 0.1.2
   - License :: BSD
+  - URL :: https://github.com/janelia-pypi/diskwalk_python
+  - Author :: Peter Polidoro
+  - Email :: peterpolidoro@gmail.com
 
   This Python package (diskwalk2) creates a class named
   DiskWalk.
