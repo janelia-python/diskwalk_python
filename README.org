@@ -6,7 +6,7 @@
   - Name :: diskwalk_python
   - Version :: 0.1.2
   - License :: BSD
-  - URL :: https://github.com/janelia-pypi/diskwalk_python
+  - URL :: https://github.com/janelia-python/diskwalk_python
   - Author :: Peter Polidoro
   - Email :: peter@polidoro.io
 
@@ -23,7 +23,7 @@
 
 * Installation
 
-  [[https://github.com/janelia-pypi/python_setup]]
+  [[https://github.com/janelia-python/python_setup]]
 
 ** Linux and Mac OS X
 
